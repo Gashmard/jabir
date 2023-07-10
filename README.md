@@ -8,5 +8,6 @@ Jaber employs some other libraries and packages to generate atomic features of m
 
 ### How to use jabir
 After installing jabir, simply execute the following two lines of code.
-> from jabir import main 
+> from jabir import main
+> 
 > print(main())
